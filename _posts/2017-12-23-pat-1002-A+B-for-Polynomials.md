@@ -1,4 +1,14 @@
-1002. A+B for Polynomials (25)
+---
+layout: post
+title:  "pat 1002 A+B for Polynomials"
+date:   2017-12-23 
+categories: pat algorithm
+tags: algorithm
+---
+
+
+
+1002.A+B for Polynomials (25)
 
 手感回来了一点，一遍过
 

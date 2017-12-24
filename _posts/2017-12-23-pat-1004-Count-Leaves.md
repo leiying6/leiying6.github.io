@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "pat 1004 Count Leaves"
+date:   2017-12-23 
+categories: pat algorithm
+tags: algorithm
+---
+
+
+
+
+
 开始按照题意写了一个，但是提交上去显示部分正确，后来想了一下问题可能出在样例输入的时候不一定是按照顺序的，每一行都是parents节点和它的子节点们，但是当前的这个parents节点不一定作为子节点出现过。
 
 所以我直接用邻接矩阵建立了有向图，然后用bfs按层搜索。
